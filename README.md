@@ -28,9 +28,9 @@ Hyperparameter Configuration: The model was configured with 100 trees (n_estimat
 4. Performance Metrics & Evaluation
 The model's performance was validated on a 20% "hold-out" test set, yielding the following results:
 
-R² (Coefficient of Determination): 0.97 – The model successfully explains 97% of the variance in the target data.
+R² (Coefficient of Determination): %97.26 – The model successfully explains 97% of the variance in the target data.
 
-Mean Squared Error (MSE): 0.0032 – Indicates an extremely low variance in prediction errors, showcasing high precision.
+Mean Squared Error (MSE): 0.0010 – Indicates an extremely low variance in prediction errors, showcasing high precision.
 
 5. Model Interpretability (XAI)
 To move beyond "black-box" modeling, Explainable AI (XAI) principles were applied:
