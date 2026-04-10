@@ -1,8 +1,5 @@
 # customer-potential-prediction
 Traditional banking models often focus on a customer’s current assets, which leads to overlooking high-growth segments. This project aims to transform banking marketing from a reactive stance into a proactive framework by analyzing a dataset of 100,000 customers to identify those with high future financial volume (High-Potential).
-Understood. To make your GitHub repository look globally professional, the technical workflow must be in English.
-
-Here is the finalized, high-level technical documentation for your README.md. It uses all the industry-standard terminology (EDA, Binning, Encoding, R², MSE) that technical recruiters look for.
 
 🚀 Technical Implementation & Workflow
 This project is structured as an end-to-end data science pipeline, moving from raw data to a production-ready deployment model.
